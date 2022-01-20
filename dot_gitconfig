@@ -1,0 +1,10 @@
+[user]
+	name = Gary Tou
+	email = gary@garytou.com
+	signingkey = 1587ABD3593755C3
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false
+[commit]
+	gpgsign = true

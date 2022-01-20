@@ -1,0 +1,7 @@
+{
+  "git.addGBlameToVirtualText": true,
+  "solargraph.useBundler": true,
+  "solargraph.diagnostics": true,
+  "solargraph.formatting": true
+
+}

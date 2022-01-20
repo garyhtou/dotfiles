@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "create-next-app": "^12.0.7",
+    "next": "^12.0.7",
+    "vercel": "^23.1.2"
+  }
+}
